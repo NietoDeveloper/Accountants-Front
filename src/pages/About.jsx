@@ -14,7 +14,7 @@ const About = () => {
         <div className='flex flex-col justify-center gap-6 md:w-2/4 text-sm text-gray-600'>
           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur quibusdam ad, totam optio necessitatibus incidunt et debitis libero dolorem autem alias voluptates ipsum iure unde dolor voluptatibus ex nam deserunt.</p>
           <b className='text-gray-800'>Our Vision</b>
-          <p>Our vision at Prescripto is to create a seamless healthcare experience for every user. We aim to bridge the gap between patients and healthcare providers, making it easier for you to access the care you need, when you need it.</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, rerum reiciendis iusto adipisci, ut voluptatem blanditiis sint vel numquam dolorem facere soluta vero sit cum temporibus recusandae sed error enim.</p>
         </div>
       </div>
 
