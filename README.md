@@ -30,9 +30,6 @@ This application is built with a separate backend (Node.js) and frontend (React.
 
 ### Built With
 
-* [Node.js](https://nodejs.org/en/)
-* [Express.js](https://expressjs.com/) - Web framework for Node.js
-* [MongoDB](https://www.mongodb.com/) / [Mongoose](https://mongoosejs.com/) - NoSQL database / ODM for MongoDB (or specify your database: PostgreSQL, MySQL, etc. and its ORM/query builder)
 * [JWT (JSON Web Tokens)](https://jwt.io/) - For authentication
 * [Bcrypt](https://www.npmjs.com/package/bcrypt) - For password hashing
 * [Cors](https://www.npmjs.com/package/cors) - For handling Cross-Origin Resource Sharing
