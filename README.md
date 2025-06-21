@@ -30,8 +30,6 @@ This application is built with a separate backend (Node.js) and frontend (React.
 
 ### Built With
 
-#### Backend (Node.js)
-
 * [Node.js](https://nodejs.org/en/)
 * [Express.js](https://expressjs.com/) - Web framework for Node.js
 * [MongoDB](https://www.mongodb.com/) / [Mongoose](https://mongoosejs.com/) - NoSQL database / ODM for MongoDB (or specify your database: PostgreSQL, MySQL, etc. and its ORM/query builder)
