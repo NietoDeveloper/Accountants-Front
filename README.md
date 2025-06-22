@@ -24,7 +24,7 @@
 
 ## About The Project
 
-This application is built with a separate backend (Node.js) and frontend (React.js) to ensure scalability, maintainability, and a clear separation of concerns.
+This application is built with frontend (React.js) to ensure scalability.
 
 ### Built With
 
