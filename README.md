@@ -89,12 +89,9 @@ Ensure you have the following installed on your machine:
 
 5.  **Run the application:**
 
-    **Start Backend Server:**
-    From the `backend` directory:
     ```bash
     npm run dev # or npm start (if your start script runs a development server)
     ```
-    The backend server should now be running on `http://localhost:[YOUR_BACKEND_PORT]`.
 
     **Start Frontend Development Server:**
     From the `frontend` directory:
