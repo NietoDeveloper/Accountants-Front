@@ -24,8 +24,6 @@
 
 ## About The Project
 
-[A concise and engaging description of your project. What does it do? What problem does it solve? What are its key features? Aim for 2-4 sentences.]
-
 This application is built with a separate backend (Node.js) and frontend (React.js) to ensure scalability, maintainability, and a clear separation of concerns.
 
 ### Built With
