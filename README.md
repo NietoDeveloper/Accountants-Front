@@ -62,20 +62,20 @@ Ensure you have the following installed on your machine:
     cd Accountants-Front
     ```
 
-3.  **Frontend Installation:**
+2.  **Frontend Installation:**
     Navigate to the `frontend` directory (or `client`, `web`, etc.).
     ```bash
     cd ../frontend/ # Go back to root and then into frontend
     npm install # or yarn install
     ```
 
-4.  **Configure Environment Variables:**
+3.  **Configure Environment Variables:**
     Create a `.env` file in both the `backend` and `frontend` directories based on the `.[env_example]` files provided. See the [Environment Variables](#environment-variables) section for details.
 
     * `backend/.env`
     * `frontend/.env`
 
-5.  **Run the application:**
+4.  **Run the application:**
 
     ```bash
     npm run dev # or npm start (if your start script runs a development server)
