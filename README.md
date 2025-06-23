@@ -51,10 +51,8 @@ To get a local copy up and running, follow these simple steps.
 
 Ensure you have the following installed on your machine:
 
-* [Node.js](https://nodejs.org/en/download/) (LTS version recommended, e.g., v18.x or v20.x)
 * [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (comes with Node.js) or [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
 * [Git](https://git-scm.com/downloads)
-* [MongoDB](https://docs.mongodb.com/manual/installation/) (if using MongoDB as your database) or access to a cloud MongoDB Atlas instance.
 
 ### Installation
 
