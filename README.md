@@ -7,10 +7,10 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-    * [Built With](#built-with)
+* [Built With](#built-with)
 * [Getting Started](#getting-started)
-    * [Prerequisites](#prerequisites)
-    * [Installation](#installation)
+* [Prerequisites](#prerequisites)
+* [Installation](#installation)
 * [Usage](#usage)
 * [Project Structure](#project-structure)
 * [API Endpoints](#api-endpoints)
@@ -28,7 +28,6 @@ This application is built with frontend (React.js) to ensure scalability.
 
 ### Built With
 
-* [JWT (JSON Web Tokens)](https://jwt.io/) - For authentication
 * [Bcrypt](https://www.npmjs.com/package/bcrypt) - For password hashing
 * [Cors](https://www.npmjs.com/package/cors) - For handling Cross-Origin Resource Sharing
 * [Dotenv](https://www.npmjs.com/package/dotenv) - For environment variables
@@ -63,17 +62,11 @@ Ensure you have the following installed on your machine:
     ```
 
 2.  **Frontend Installation:**
-    Navigate to the `frontend` directory (or `client`, `web`, etc.).
+    Navigate to the `frontend` directory.
     ```bash
     cd ../frontend/ # Go back to root and then into frontend
     npm install # or yarn install
     ```
-
-3.  **Configure Environment Variables:**
-    Create a `.env` file in both the `backend` and `frontend` directories based on the `.[env_example]` files provided. See the [Environment Variables](#environment-variables) section for details.
-
-    * `backend/.env`
-    * `frontend/.env`
 
 4.  **Run the application:**
 
