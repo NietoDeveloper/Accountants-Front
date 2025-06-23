@@ -58,7 +58,7 @@ Ensure you have the following installed on your machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourGitHubUsername]/[YourRepositoryName].git
+    git clone https://github.com/NietoDeveloper/Accountants-Front
     cd [YourRepositoryName]
     ```
 
