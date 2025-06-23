@@ -1,6 +1,6 @@
 # Accounttants Front
 
-![![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](./CODE_OF_CONDUCT.md)
 [![Last Commit](https://img.shields.io/github/last-commit/[YourGitHubUsername]/[YourRepositoryName].svg)](https://github.com/[YourGitHubUsername]/[YourRepositoryName]/commits/main)
 
