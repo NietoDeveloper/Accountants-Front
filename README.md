@@ -39,7 +39,6 @@ This application is built with frontend (React.js) to ensure scalability.
 * [React](https://react.dev/) - JavaScript library for building user interfaces
 * [React Router DOM](https://reactrouter.com/en/main) - For client-side routing
 * [Axios](https://axios-http.com/) - For making HTTP requests
-* [Redux](https://redux.js.org/) / [Redux Toolkit](https://redux-toolkit.js.org/) - For state management (or specify Context API, Zustand, etc.)
 * [Tailwind CSS](https://tailwindcss.com/) / [Styled Components](https://styled-components.com/) / [Material-UI](https://mui.com/) - For styling (choose one or more, or specify your CSS framework/approach)
 * [React Hook Form](https://react-hook-form.com/) - For form management (if applicable)
 * [Other important frontend libraries/tools you use]
