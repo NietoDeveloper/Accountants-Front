@@ -62,13 +62,6 @@ Ensure you have the following installed on your machine:
     cd Accountants-Front
     ```
 
-2.  **Backend Installation:**
-    Navigate to the `backend` directory (or `server`, `api`, etc., depending on your structure).
-    ```bash
-    cd backend/
-    npm install # or yarn install
-    ```
-
 3.  **Frontend Installation:**
     Navigate to the `frontend` directory (or `client`, `web`, etc.).
     ```bash
