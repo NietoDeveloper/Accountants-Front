@@ -9,11 +9,6 @@ This application is built with frontend (React.js) to ensure scalability.
 
 ### Built With
 
-* [Bcrypt](https://www.npmjs.com/package/bcrypt) - For password hashing
-* [Cors](https://www.npmjs.com/package/cors) - For handling Cross-Origin Resource Sharing
-* [Dotenv](https://www.npmjs.com/package/dotenv) - For environment variables
-* [Other important backend libraries/tools you use]
-
 #### Frontend (React.js)
 
 * [React](https://react.dev/) - JavaScript library for building user interfaces
