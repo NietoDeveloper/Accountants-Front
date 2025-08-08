@@ -66,4 +66,3 @@ Example:
 * **[Feature 1]:** Once logged in, you can [describe what they can do].
 * **[Feature 2]:** Explore the [specific section] to [describe its purpose].
 
-## Project Structure
