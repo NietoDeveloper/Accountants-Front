@@ -1,26 +1,7 @@
 # Accounttants Front
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](./CODE_OF_CONDUCT.md)
-[![Last Commit](https://img.shields.io/github/last-commit/[YourGitHubUsername]/[YourRepositoryName].svg)](https://github.com/[YourGitHubUsername]/[YourRepositoryName]/commits/main)
 
-## Table of Contents
-
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Getting Started](#getting-started)
-* [Prerequisites](#prerequisites)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Project Structure](#project-structure)
-* [API Endpoints](#api-endpoints)
-* [Environment Variables](#environment-variables)
-* [Testing](#testing)
-* [Deployment](#deployment)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgments](#acknowledgments)
 
 ## About The Project
 
