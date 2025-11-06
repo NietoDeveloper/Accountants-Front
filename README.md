@@ -38,7 +38,7 @@ Ensure you have the following installed on your machine:
     cd Accountants-Front
     ```
 
-2.  **Frontend Installation:**
+2. **Frontend Installation:**
     Navigate to the `frontend` directory.
     ```bash
     cd ../frontend/ # Go back to root and then into frontend
