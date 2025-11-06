@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
 ## About The Project
 
 This application is built with frontend (React.js) to ensure scalability.
@@ -40,12 +39,13 @@ Ensure you have the following installed on your machine:
 
 2. **Frontend Installation:**
     Navigate to the `frontend` directory.
+
     ```bash
     cd ../frontend/ # Go back to root and then into frontend
     npm install # or yarn install
     ```
 
-4.  **Run the application:**
+4. **Run the application:**
 
     ```bash
     npm run dev # or npm start (if your start script runs a development server)
@@ -53,9 +53,11 @@ Ensure you have the following installed on your machine:
 
     **Start Frontend Development Server:**
     From the `frontend` directory:
+
     ```bash
     npm start # or npm run dev
     ```
+
     The frontend application should open in your browser, usually at `http://localhost:[YOUR_FRONTEND_PORT]`.
 
 ## Usage
@@ -63,8 +65,13 @@ Ensure you have the following installed on your machine:
 [Explain how to use your application. Provide examples of typical workflows, features, or how a user would interact with it. Include screenshots or GIFs if possible for better demonstration.]
 
 Example:
+
 * **User Registration/Login:** Navigate to `/register` or `/login` to create an account or sign in.
 * **[Feature 1]:** Once logged in, you can [describe what they can do].
 * **[Feature 2]:** Explore the [specific section] to [describe its purpose].
 
-### Manuel Nieto Software Developer
+## Manuel Nieto
+
+## NietoDeveloper
+
+### 2025
