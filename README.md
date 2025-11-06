@@ -31,7 +31,7 @@ Ensure you have the following installed on your machine:
 
 ### Installation
 
-1.  **Clone the repository:**
+1. **Clone the repository:**
     ```bash
     git clone https://github.com/NietoDeveloper/Accountants-Front
     cd Accountants-Front
