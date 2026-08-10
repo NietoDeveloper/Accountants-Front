@@ -10,13 +10,10 @@ This application is built with frontend (React.js) to ensure scalability.
 * [React](https://react.dev/) - JavaScript library for building user inter
 * [React Router -http.com/) - For making HTTP requests
 * [Tailwind CSS](https://tailwindcss.com/) / [Styled Components]
-
-    ```bash
-    cd ../frontend/ # Go back to root and then into frontend
+tend/ # Go back to root and then into frontend
 
 
-    ```bash
-    npm run dev # or npm start (if your start script runs a development server)
+ment server)
     ```
 
     **Start Frontend Development Server:**
