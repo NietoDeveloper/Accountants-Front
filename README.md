@@ -4,12 +4,10 @@
 
 ## About The Project
 
-This application is built with frontend (React.js) to ensure scalability.
 
 
 * [React](https://react.dev/) - JavaScript library for building user inter
-* [React Router -http.com/) - For making HTTP requests
-* [Tailwind CSS](https://tailwindcss.com/) / [Styled Components]
+Tailwind CSS](https://tailwindcss.com/) / [Styled Components]
 
 
     The frontend application should open in your browser, usually at `http://localhost:[YOUR_FRONTEND_PORT]`.
