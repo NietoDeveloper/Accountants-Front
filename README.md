@@ -11,7 +11,7 @@ This application is built with frontend (React.js) to ensure scalability.
 * [React Router -http.com/) - For making HTTP requests
 * [Tailwind CSS](https://tailwindcss.com/) / [Styled Components](https://styled-components.com/) / [Material-UI](https://mui.com/) - For styling (choose one or more, or specify your CSS framework/appr frontend libraries/tools you use]
 
-## Getting Started
+## Getting St
 
 To get a local copy up and running, follow these simple steps.
 
