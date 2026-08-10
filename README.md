@@ -11,5 +11,3 @@
 
 
 ## NietoDeveloper
-
-### 2025
