@@ -11,9 +11,7 @@
 [Explain how to use your application. Provide examples of typical workflows, features, or how a user would interact with 
 Exam
 * * create an account or sign in.
-* **[Feature 1]:** Once logged in, you can [describe what they cpose].
-
-## Manuel Nieto
+* **[Feature 1]:** Once logged in, you can [describe what they cpose
 
 ## NietoDeveloper
 
