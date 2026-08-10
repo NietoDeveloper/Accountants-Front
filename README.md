@@ -13,10 +13,7 @@ This application is built with frontend (React.js) to ensure scalability.
 
     ```bash
     cd ../frontend/ # Go back to root and then into frontend
-    npm install # or yarn install
-    ```
 
-4. **Run the application:**
 
     ```bash
     npm run dev # or npm start (if your start script runs a development server)
