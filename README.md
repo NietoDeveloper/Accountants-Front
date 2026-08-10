@@ -7,7 +7,7 @@
 This application is built with frontend (React.js) to ensure scalability.
 
 #### Frontend (React.js
-* [React](https://react.dev/) - JavaScript library for building user interfaces
+* [React](https://react.dev/) - JavaScript library for building user inter
 * [React Router DOM](https://reactrouter.com/en/main) - For client-side routing
 * [Axios](https://axios-http.com/) - For making HTTP requests
 * [Tailwind CSS](https://tailwindcss.com/) / [Styled Components](https://styled-components.com/) / [Material-UI](https://mui.com/) - For styling (choose one or more, or specify your CSS framework/approach)
