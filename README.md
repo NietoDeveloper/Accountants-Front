@@ -10,9 +10,7 @@ This application is built with frontend (React.js) to ensure scalability.
 * [React](https://react.dev/) - JavaScript library for building user inter
 * [React Router -http.com/) - For making HTTP requests
 * [Tailwind CSS](https://tailwindcss.com/) / [Styled Components](https://styled-components.com/) / [Material-UI](https://mui.com/) - For styling (choose one or more, or specify your CSS framework/appr frontend libraries/tools you use
-## Getting St
-
-1. **Clone the repository:**
+ the repository:**
 
     ```bash
     git clone https://github.com/NietoDeveloper/Accountants-Front
