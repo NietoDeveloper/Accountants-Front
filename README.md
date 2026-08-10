@@ -12,8 +12,6 @@ This application is built with frontend (React.js) to ensure scalability.
 * [Tailwind CSS](https://tailwindcss.com/) / [Styled Components]
 tend/ # Go back to root and then into frontend
 
-
-ment server)
     ```
 
     **Start Frontend Development Server:**
