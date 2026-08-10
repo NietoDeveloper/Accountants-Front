@@ -9,5 +9,3 @@
 
 [Explain how to use your application. Provide examples of typical workflows, features, or how a user would interact with 
 
-
-## NietoDeveloper
