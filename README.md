@@ -7,9 +7,8 @@
 
 
 * [React](https://react.dev/) - JavaScript library for building user inter
-Tailwind CSS](https://tailwindcss.com/) / [Styled Componentshe fronten
-[Explain how to use your application. Provide examples of typical workflows, features, or how a user would interact with it. Include screenshots or GIFs if possible for better demonstration.]
 
+[Explain how to use your application. Provide examples of typical workflows, features, or how a user would interact with 
 Exam
 * **User Registration/Login:** Navigate to `/register` or `/login` to create an account or sign in.
 * **[Feature 1]:** Once logged in, you can [describe what they can do].
