@@ -12,9 +12,7 @@ This application is built with frontend (React.js) to ensure scalability.
 * [Tailwind CSS](https://tailwindcss.com/) / [Styled Components](https://styled-components.com/) / [Material-UI](https://mui.com/) - For styling (choose one or more, or specify your CSS framework/appr frontend libraries/tools you use
 ## Getting St
 
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
+Prerequisites
 
 Ensure you have the following installed on your machine:
 
