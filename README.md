@@ -7,7 +7,7 @@
 
 
 * [React](https://react.dev/) - JavaScript library for building user inter
-Tailwind CSS](https://tailwindcss.com/) / [Styled Components]  The frontend application should open in your browser, 
+Tailwind CSS](https://tailwindcss.com/) / [Styled Componentshe frontend application should open in your browser, 
 
 [Explain how to use your application. Provide examples of typical workflows, features, or how a user would interact with it. Include screenshots or GIFs if possible for better demonstration.]
 
