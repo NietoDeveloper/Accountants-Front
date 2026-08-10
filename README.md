@@ -10,8 +10,6 @@ This application is built with frontend (React.js) to ensure scalability.
 * [React](https://react.dev/) - JavaScript library for building user inter
 * [React Router -http.com/) - For making HTTP requests
 * [Tailwind CSS](https://tailwindcss.com/) / [Styled Components]
-2. **Frontend Installation:**
-    Navigate to the `frontend` directory.
 
     ```bash
     cd ../frontend/ # Go back to root and then into frontend
