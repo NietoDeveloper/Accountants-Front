@@ -12,10 +12,7 @@ This application is built with frontend (React.js) to ensure scalability.
 * [Tailwind CSS](https://tailwindcss.com/) / [Styled Components](https://styled-components.com/) / [Material-UI](https://mui.com/) - For styling (choose one or more, or specify your CSS framework/appr frontend libraries/tools you use
 ## Getting St
 re you have the following installed on your machi
-* [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (comes with Node.js) or [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
-* [Git](https://git-scm.com/downloads)
-
-### Installation
+* [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (comes with Node.js) 
 
 1. **Clone the repository:**
 
