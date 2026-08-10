@@ -6,7 +6,7 @@
 
 This application is built with frontend (React.js) to ensure scalability.
 
-### Built With
+
 
 #### Frontend (React.js)
 
